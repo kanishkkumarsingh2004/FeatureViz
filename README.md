@@ -1,6 +1,3 @@
-Here’s the full README markdown for your project. You can save it as a single `.md` file:
-
-
 # FeatureViz: Visualizing CNN Features for Cats vs. Dogs Classification
 
 ## Overview
